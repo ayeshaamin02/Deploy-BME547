@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+numpy
+scikit-image
+joblib
+scikit-learn
+Pillow
+ultralytics
+matplotlib
