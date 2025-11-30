@@ -8,3 +8,4 @@ scikit-learn
 Pillow
 ultralytics
 matplotlib
+opencv-python-headless
